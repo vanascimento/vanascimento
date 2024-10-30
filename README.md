@@ -1,13 +1,13 @@
 # 👋 Hello! I’m Victor
 
-Welcome to my GitHub profile! I'm a software engineering passionate about Finance,Energy and Artifical Intelligence. and always seeking to learn more. Here, you’ll find my projects, contributions, and some of the tools I use daily.
+Welcome to my GitHub profile! I'm a software engineering passionate about Finance,Energy and Artifical Intelligence and always seeking to learn more. Here, you’ll find my projects, contributions, and some of the tools I use daily.
 
 ---
 
 ## 💼 About Me
 
 - 🎓 Electrical Engineering by Universidade Federal Fluminense
-- 🌱 Learning Large Language Models for processing automation and how to utilize blockchain (specifically Ethereum) on enterprise environment
+- 🌱 Learning Large Language Models for processing automation and how to utilize blockchain (Ethereum) on enterprise environment
 - 🛠️ **Tools and Technologies**: 
   - Languages: [Python, JavaScript, C#,Rust,Golang and whatever is necessary to achieve the objective .]
   - Frameworks and Libraries: [React,ASP.NET Core, FastAPI, Axum, Gin,Fiber and more]
@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a software engineering passionate about Financ
 
 ### 🚀  My Skills
 #### Main Stack daily usage:
-[![My Skills](https://skillicons.dev/icons?i=dotnet,docker,rust,elasticsearch,fastapi,go,js,ts,aws,angular,react,kubernetes,azure,pytorch,rabbitmq,vscode,tailwind,npm,jest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,docker,rust,elasticsearch,fastapi,go,js,ts,aws,angular,react,kubernetes,azure,pytorch,rabbitmq,vscode,tailwind,npm,jest,next,kafka)](https://skillicons.dev)
 
 <br/>
 
@@ -34,16 +34,6 @@ Welcome to my GitHub profile! I'm a software engineering passionate about Financ
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanascimento&show_icons=true&theme=radical)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/vanascimento)
-
----
-
-## 📝 Publications and Articles
-
-- [📖 Article Title 1](link)
-  - **Description**: Brief introduction or insights from the article.
-
-- [📖 Article Title 2](link)
-  - **Description**: Brief introduction or insights from the article.
 
 ---
 
