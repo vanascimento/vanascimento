@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a software engineering passionate about Financ
 
 ### 🚀  My Skills
 #### Main Stack daily usage:
-[![My Skills](https://skillicons.dev/icons?i=dotnet,docker,rust,elasticsearch,fastapi,go,js,ts,aws,angular,react,kubernetes,azure,pytorch,rabbitmq,vscode,tailwind,npm,jest,next,kafka)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,docker,rust,elasticsearch,mysql,postgresql,cassandra,mongodb,fastapi,go,js,ts,aws,angular,react,kubernetes,azure,pytorch,rabbitmq,vscode,tailwind,npm,jest,next,kafka)](https://skillicons.dev)
 
 <br/>
 
